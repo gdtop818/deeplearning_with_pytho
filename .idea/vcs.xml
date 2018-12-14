@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="C:/" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TensorFlow-Google" vcs="Git" />
     <mapping directory="D:/TensorFlow-Google" vcs="Git" />
   </component>
 </project>

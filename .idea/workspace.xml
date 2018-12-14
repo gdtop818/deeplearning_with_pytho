@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dee6c31-f4b7-485a-a176-1c15ad6a5f2b" name="Default" comment="12.11 commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deeplearning_with_python/.ipynb_checkpoints/chapter5-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信图片_20181206225114.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deeplearning_with_python/cats_and_dogs_small_1.h5" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deeplearning_with_python/.ipynb_checkpoints/chapter6-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/微信图片_20181206225114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deeplearning_with_python/.ipynb_checkpoints/chapter5-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deeplearning_with_python.iml" afterPath="$PROJECT_DIR$/.idea/deeplearning_with_python.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
     </list>
@@ -20,11 +20,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="chapter5.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chapter5.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deeplearning_with_python/chapter5.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TF_chapter9.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../TensorFlow-Google/TF_chapter9.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -51,10 +60,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-68" />
-    <option name="y" value="32" />
+    <option name="x" value="57" />
+    <option name="y" value="-8" />
     <option name="width" value="1871" />
-    <option name="height" value="1092" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -80,33 +90,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="deeplearning_with_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="deeplearning_with_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="deeplearning_with_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Deeplearning_with_python" />
+              <option name="myItemId" value="TensorFlow-Google" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TensorFlow-Google" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -346,10 +341,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-68" y="32" width="1871" height="1092" extended-state="0" />
-    <editor active="true" />
+    <frame x="57" y="-8" width="1871" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29707345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3036996" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3304721" sideWeight="0.5107675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -410,6 +404,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Deeplearning_with_python/chapter5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deeplearning_with_python/chapter5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Deeplearning_with_python/chapter5.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -524,6 +532,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TensorFlow-Google/TF_chapter9.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>

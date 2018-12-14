@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/deeplearning_with_python.iml" filepath="$PROJECT_DIR$/.idea/deeplearning_with_python.iml" />
-      <module fileurl="file://D:/TensorFlow-Google/.idea/tf.iml" filepath="D:/TensorFlow-Google/.idea/tf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TensorFlow-Google/.idea/tf.iml" filepath="$PROJECT_DIR$/../TensorFlow-Google/.idea/tf.iml" />
+      <module fileurl="file://D:\TensorFlow-Google\.idea\tf.iml" filepath="D:\TensorFlow-Google\.idea\tf.iml" />
     </modules>
   </component>
 </project>
